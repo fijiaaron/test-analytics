@@ -11,7 +11,13 @@ For a moderately sized project, an initial ACC breakdown might take 20 minutes t
 
 Why ACC?
 --------
-Many test plans suffer from one or more common problems: * Difficult to keep up-to-date and become obsolete * Written ad-hoc, leading to holes in coverage * Ignored after initial creation or review * Give little actionable data * Disorganized, difficult to consume all related information at once
+Many test plans suffer from one or more common problems: 
+
+* Difficult to keep up-to-date and become obsolete
+* Written ad-hoc, leading to holes in coverage
+* Ignored after initial creation or review
+* Give little actionable data
+* Disorganized, difficult to consume all related information at once
 
 In addition, we've found that when trying to utilize risk-based testing methodologies, a conventional test plan doesn't give a good visual map of the project -- there's no great place to start or end when determining risk, nor do they provide a good mechanism by which to visualize the risk.
 
