@@ -11,11 +11,13 @@ See also this alternate fork (https://github.com/huihoo/google-test-analytics)
 
 
 ### Quality Signals
-Tests
-Code Changes
-Bugs
+
+- Tests
+- Code Changes
+- Bugs
 
 ### Additional Signals
 
-Deployments
-Environment Changes
+- Deployments
+- Environment Changes
+- Code Builds
