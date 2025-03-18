@@ -19,5 +19,5 @@ See also this alternate fork (https://github.com/huihoo/google-test-analytics)
 ### Additional Signals
 
 - Deployments
-- Environment Changes
+- Environment & Configuration Changes
 - Code Builds
