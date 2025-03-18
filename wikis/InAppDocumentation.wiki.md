@@ -19,19 +19,19 @@ These details help identify your project. You can also edit the name of the proj
 
 Attributes are the adjectives that describe your project. Common attributes include "Secure" and "Fast". Typically, a product manager or tester with high knowledge of the product will have a hand in narrowing down the list of attributes for the system.
 
-For more information on the ACC methodology that Test Analytics uses, see AccExplained.
+For more information on the ACC methodology that Test Analytics uses, see [AccExplained](AccExplained.wiki.md).
 
 ### Components
 
 Components are the nouns that are parts of your project -- the building blocks that constitute the system in question. Examples could include "Firmware", "Shopping Cart" or "Database".
 
-For more information on the ACC methodology that Test Analytics uses, see AccExplained.
+For more information on the ACC methodology that Test Analytics uses, see [AccExplained](AccExplained.wiki.md).
 
 ### Capabilities
 
 Capabilities are the verbs of your project. They describe the abilities of a component required to satisfy an attribute of a system. In an example of a e-commerce website, which would have an attribute "Secure" and a component "Shopping Cart", might have a capability "Process monetary transactions using HTTPS".
 
-For more information on the ACC methodology that Test Analytics uses, see AccExplained.
+For more information on the ACC methodology that Test Analytics uses, see [AccExplained](AccExplained.wiki.md).
 
 ### Configuring Data Requests
 
